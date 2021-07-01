@@ -1,1 +1,1 @@
-const calculadora=require(',/calculadora')
+const sumar,restar,multiplicar , dividir =require(',/calculadora')
